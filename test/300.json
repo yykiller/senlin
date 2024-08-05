@@ -1,0 +1,71 @@
+
+{
+
+    "api":"http://ips.146441.xyz/test/feimao/api.json",
+    "official":"https://senlin.app",
+    "update_apk_size": "40.2m",
+    "showAd":1,
+    "showKouling": "￥TE9fD1jEn3hwjqFl￥",//口令
+    "ticketUrl": "",//h5页面链接
+    "dmUrl":"https://wwt.lanzn.com/1DMJJ",
+    "tipJson":"",//这是提醒
+    "update_constraint": false,
+    "update_content":"1.将背景色修改为暗色，喜欢现在配色的可以不升级\n2.本软件不含任何广告\n\n\n",   
+     "recommendUrl": [
+        {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
+        {"name":"肥猫","url":"http://我不是.肥猫.live/接口禁止贩卖"},
+        {"name":"黑猫","url":"http://up.heimao.nl/240302/2hd.json"},
+       
+        {"name":"运输车","url":"https://weixine.net/ysc.json"}
+
+    ],
+    "update_url": "https://testin-files.oss-cn-hangzhou.aliyuncs.com/public/app/2023/6/29/5659540/1869954/b911cb5f-5ce5-40af-b888-0789669de453.apk",
+    "version_code":22,
+    "version_name":"2.0.2",
+    "pan_url":"https://wwt.lanzouw.com/senlin",
+    	"banner": [
+    	    /*首页banner
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
+        }
+        
+        */
+    ],
+    "my": [
+        /*我的页面赞助
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://5b0988e595225.cdn.sohucs.com/images/20190211/73a86526d1924fa0bc019cc82fbb8d94.png",  
+            "bannerDesc": "领红包"
+
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c679315d498a16fdfaae51ca98?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_auto",  
+            "bannerDesc": "领会员"
+
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.616pic.com/ys_img/00/15/73/uoEbDkAKNX.jpg",  
+            "bannerDesc": "分享回应"
+
+        }
+        */
+    ],
+     "detail": [
+         /*播放页广告
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg",  
+            "bannerDesc": "领红包"
+
+        }
+        */
+    ]
+}

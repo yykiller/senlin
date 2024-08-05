@@ -1,20 +1,21 @@
 
 {
 
-    "api":"http://ips.146441.xyz/test/feimao/api.json",
+    "api":"https://cdn.jsdelivr.net/gh/yykiller/senlin@main/test/xiaomi/api.json",
     "official":"https://senlin.app",
     "update_apk_size": "40.2m",
     "showAd":1,
-    "showKouling": "￥TE9fD1jEn3hwjqFl￥",//口令
+    "showKouling": "测试123",//口令
     "ticketUrl": "",//h5页面链接
     "dmUrl":"https://wwt.lanzn.com/1DMJJ",
     "tipJson":"",//这是提醒
     "update_constraint": false,
     "update_content":"1.将背景色修改为暗色，喜欢现在配色的可以不升级\n2.本软件不含任何广告\n\n\n",   
      "recommendUrl": [
-        {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
-        {"name":"肥猫","url":"http://我不是.肥猫.live/接口禁止贩卖"},
-        {"name":"黑猫","url":"http://up.heimao.nl/240302/2hd.json"},
+        {"name":"大米","url":"https://dxawi.github.io/0/0.json"},
+        {"name":"饭太硬","url":"http://www.饭太硬.com/tv/"},
+        {"name":"xd","url":"https://xhdwc.tk/0"},
+          {"name":"刘公子","url":"https://raw.liucn.cc/box/m.json"},
        
         {"name":"运输车","url":"https://weixine.net/ysc.json"}
 
